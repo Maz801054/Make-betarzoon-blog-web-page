@@ -1,0 +1,61 @@
+.nav-item {
+  margin-left: 20px;
+}
+.shedow {
+  box-shadow: 5px 5px 5px black;
+  text-align: ;
+}
+p,
+h1 {
+  font-family: "Times New Roman";
+}
+.big h1 {
+  font-size: 80px;
+  font-family: "Times New Roman";
+  font-weight: bold;
+}
+.allDown {
+  margin-top: 100px;
+}
+.bor {
+  border: 1px solid black;
+  margin-top: 100px;
+}
+.wgg {
+  width: 580px;
+  height: 300px;
+}
+.card {
+  width: 365px;
+}
+.BXx {
+  margin-left: -23px;
+  width: 400px;
+  height: 180px;
+}
+.space {
+  text-decoration: none;
+  color: black;
+}
+.Dxi h1 {
+  font-size: 50px;
+}
+.zoom {
+  margin-left: -35px;
+  width: 600px;
+  height: 420px;
+}
+.bggg {
+  background-color: azure !important;
+}
+.iconnn i {
+  margin-left: 20px;
+  font-size: 20px;
+}
+.section_5 {
+  border-top: 2px solid black;
+}
+.line {
+  background-color: black;
+  height: 1px;
+}
